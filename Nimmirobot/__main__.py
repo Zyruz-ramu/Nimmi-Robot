@@ -73,10 +73,10 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hi {}, This is a complete Bot to help you manage your groups easily and safely! 
+'Hi {}, This is a complete Bot to help you manage your groups easily and safely!' 
  
-Add me in a Supergroup and promote me as Admin to let me get in action❗
- ❓ WHAT ARE THE COMMANDS? ❓
+'Add me in a Supergroup and promote me as Admin to let me get in action''❗
+ ❓ 'WHAT ARE THE COMMANDS? '❓
 Press /help to see all the commands and how they work!
 """
 
